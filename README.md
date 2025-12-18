@@ -3,7 +3,6 @@
 Una aplicación de escritorio profesional creada en Python para generar flyers, pósters y arte conceptual utilizando Inteligencia Artificial.
 
 ![Demo de la App](demo.jpg)
-*(Si subiste una imagen, asegúrate de que se llame demo.png)*
 
 ## ✨ Características
 - **Generación Ilimitada:** Conexión directa a API de difusión estable (Pollinations).
